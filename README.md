@@ -1,4 +1,4 @@
-# NeuroScan: Brain Tumor Recognition from MRI
+# CT scans analizator
 
 A Python desktop application for analyzing brain MRI scans. Select an image to send it to a Roboflow model; the app reports whether an object in the `BrainTumor` class was detected and displays the model's confidence.
 
